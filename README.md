@@ -1,12 +1,51 @@
-# React + Vite
+# Portfolio Website (v2)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my **second personal portfolio website**, built to showcase my projects, skills, and contact information.  
+The project is built with **React**, **Vite**, and **Tailwind CSS** for fast performance and a clean, responsive UI.
 
-Currently, two official plugins are available:
+It's from PedroTech Thanks to him and his Great tutorial  ✨✨.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+THE SKY IS FULL OF STARS 🌟
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- **Responsive Design** – Works seamlessly on desktop, tablet, and mobile devices.
+- **Smooth Animations** – Subtle UI animations for an engaging experience.
+- **Contact Form** – Users can send messages (with toast notifications).
+- **Project Showcase** – Highlights selected projects with descriptions and live/demo links.
+- **Social Links** – Quick access to my professional profiles.
+- **Fast Build** – Powered by Vite for lightning-fast development and builds.
+
+---
+
+## 🛠️ Tech Stack
+
+- **React 18** – Component-based UI library.
+- **Vite** – Fast and modern development bundler.
+- **Tailwind CSS** – Utility-first CSS framework.
+- **Lucide React** – Icon set.
+- **React Hot Toast** – Toast notifications for form feedback.
+
+---
+
+## 📂 Project Structure
+
+/src
+├─ components/ # Reusable UI components
+├─ sections/ # Page sections (Hero, About, Projects, Contact, etc.)
+├─ assets/ # Images, logos, and other static files
+├─ App.jsx # Main app entry
+└─ main.jsx # React DOM rendering
+
+
+---
+
+## ⚡ Getting Started
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/Omar-Aldabbas/portfolio-2.git
+cd portfolio-2
+
