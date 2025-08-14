@@ -32,12 +32,13 @@ THE SKY IS FULL OF STARS 🌟
 
 ## 📂 Project Structure
 
-/src
-├─ components/ # Reusable UI components
-├─ sections/ # Page sections (Hero, About, Projects, Contact, etc.)
-├─ assets/ # Images, logos, and other static files
-├─ App.jsx # Main app entry
-└─ main.jsx # React DOM rendering
+src/
+├── components/     # Reusable UI components
+├── sections/       # Page sections (Hero, About, Projects, Contact, etc.)
+├── assets/         # Images, logos, and other static files
+├── App.jsx         # Main app entry
+└── main.jsx        # React DOM rendering
+
 
 
 ---
